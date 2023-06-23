@@ -13,7 +13,7 @@
 
 ## Sobre Mim
 
-Graduando em Engenharia de Computação pela UFRJ. Atualmente atuo como desenvolvedor de sistemas no Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+Graduando em Engenharia de Computação pela UFRJ. Atualmente trabalho como desenvolvedor de sistemas no Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
 
 
 ## Contato
