@@ -11,12 +11,12 @@
 
 
 
-## Sobre Mim
+## About me
 
-Graduando em Engenharia de Computação pela UFRJ. Atualmente trabalho como desenvolvedor de sistemas no Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+I'm a Computer Engineering undergraduate student at the Federal University of Rio de Janeiro - UFRJ. I currently work as a systems developer at the Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
 
 
-## Contato
+## Contact
 
 - Email: lucas.tavares@poli.ufrj.br
 - LinkedIn: [Lucas Tavares](https://www.linkedin.com/in/lucas-tavares-2021/)
