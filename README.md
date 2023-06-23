@@ -1,36 +1,23 @@
 # Lucas Tavares
 
-[![Angular](https://img.shields.io/badge/Angular-Proficiente-red)](#)
-[![HTML](https://img.shields.io/badge/HTML-Proficiente-blue)](#)
-[![CSS](https://img.shields.io/badge/CSS-Proficiente-blue)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Proficiente-blue)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Proficiente-yellow)](#)
-[![SQL](https://img.shields.io/badge/SQL-Proficiente-green)](#)
-[![Java](https://img.shields.io/badge/Java-Proficiente-orange)](#)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](#)
+
 
 
 ## Sobre Mim
 
 Graduando em Engenharia de Computação pela UFRJ. Atualmente atuo como desenvolvedor de sistemas no Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
 
-## Habilidades Técnicas
-
-- Angular
-- HTML
-- CSS
-- TypeScript
-- JavaScript
-- SQL
-- Python
-- Java
-
 
 ## Contato
 
-Se você quiser saber mais sobre mim ou tiver alguma oportunidade de colaboração, não hesite em entrar em contato. Estou sempre aberto a novos desafios e aprendizados.
+- Email: lucas.tavares@poli.ufrj.br
+- LinkedIn: [Lucas Tavares](https://www.linkedin.com/in/lucas-tavares-2021/)
 
-- Email: seuemail@exemplo.com
-- LinkedIn: [seu-linkedin](link-do-linkedin)
-- Portfolio: [seu-portfolio](link-do-portfolio)
-
-Ficarei feliz em conhecer novas pessoas e discutir ideias interessantes. Vamos conectar!
