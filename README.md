@@ -13,6 +13,7 @@ I'm a Computer Engineering undergraduate student at the Federal University of Ri
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" /></code>&nbsp;  
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
+ 
    </p>
    
    <p>&nbsp;</p>
@@ -29,4 +30,4 @@ I'm a Computer Engineering undergraduate student at the Federal University of Ri
 
 
 ![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=lucastavarex&count_private=true&show_icons=true&hide=stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastavarex&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastavarex&layout=compact)
