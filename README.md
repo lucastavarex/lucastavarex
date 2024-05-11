@@ -29,3 +29,4 @@ I'm a Computer Engineering undergraduate student at the Federal University of Ri
 
 
 ![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=lucastavarex&count_private=true&show_icons=true&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastavarex&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
