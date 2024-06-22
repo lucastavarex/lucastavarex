@@ -1,4 +1,4 @@
-# Hi there, I'm Lucas Tavrares!👋 
+# Hi there, I'm Lucas Tavares!👋 
  
 I'm a Computer Engineering undergraduate student at the Federal University of Rio de Janeiro - UFRJ and Data Office's Frontend Developer at @prefeitura-rio.
 <p>&nbsp;</p>
