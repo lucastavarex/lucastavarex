@@ -1,23 +1,13 @@
 # Hi there, I'm Lucas Tavares!👋 
  
 I'm a Computer Engineering undergraduate student at the Federal University of Rio de Janeiro - UFRJ and Data Office's Frontend Developer at @prefeitura-rio.
-<p>&nbsp;</p>
 
- 
- **Languages and Frameworks:**
-<p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="javascript" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="css" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" alt="typescript" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" /></code>&nbsp;  
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
- 
-   </p>
-   
-   <p>&nbsp;</p>
-
+<p>
+<h3>GitHub stats</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lucastavarex&count_private=true&show_icons=true&hide_rank=false&theme=dark" />
+</p>
+</p>
 
 **Connect with me:**
 <p align="left">
@@ -25,9 +15,3 @@ I'm a Computer Engineering undergraduate student at the Federal University of Ri
 <a href="https://www.instagram.com/lucastavarex/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="lucastavarex" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/TucasLavares/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="lucastavarex" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-
-<p>&nbsp;</p>
-
-
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=lucastavarex&count_private=true&show_icons=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastavarex&layout=compact)
