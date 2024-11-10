@@ -5,7 +5,7 @@ I'm a Computer Engineering undergraduate student at the Federal University of Ri
 <p>
 <h3>GitHub stats</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lucastavarex&count_private=true&show_icons=true&hide_rank=false&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucastavarex&count_private=true&show_icons=true&hide_rank=false&theme=dark&hide=stars" />
 </p>
 </p>
 
