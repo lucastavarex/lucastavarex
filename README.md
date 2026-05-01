@@ -1,6 +1,16 @@
 # Hi there, I'm Lucas Tavares!👋 
  
-I'm a Computer Engineering undergraduate student at the Federal University of Rio de Janeiro - UFRJ and Data Office's Frontend Developer at @prefeitura-rio.
+<p>
+<h3>Experiences</h3>
+<ul>
+<li><em>Tech lead at <a href="https://iplan.rio/">IPLAN Rio</a></em> (Jan 2025 - Currently).<br /></li>
+<li><em>Fullstack Developer at <a href="https://www.insper.edu.br/pt/pesquisa/centro-de-estudos-das-cidades">Centro de Estudos das Cidades – Laboratório Arq.Futuro do Insper</a></em> (Jun 2025 - Currently).<br /></li>
+<li><em>Data Office's Frontend Developer at <a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a></em> (Set 2023 - Dec 2024).<br /></li>
+<li><em>Fullstack Developer at <a href="https://www.bndes.gov.br/wps/portal/site/home">BNDES</a></em> (Jan 2022 - Set 2023).<br /></li>
+
+
+</ul>
+</p>
 
 <p>
 <h3>GitHub stats</h3>
