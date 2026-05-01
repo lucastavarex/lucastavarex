@@ -5,7 +5,7 @@
 <ul>
 <li><em>Tech lead at <a href="https://iplan.rio/">IPLAN Rio</a></em> (Jan 2025 - Currently).<br /></li>
 <li><em>Fullstack Developer at <a href="https://www.insper.edu.br/pt/pesquisa/centro-de-estudos-das-cidades">Centro de Estudos das Cidades – Laboratório Arq.Futuro do Insper</a></em> (Jun 2025 - Currently).<br /></li>
-<li><em>Data Office's Frontend Developer at <a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a></em> (Aug 2023 - Dec 2024).<br /></li>
+<li><em>Data Office's Frontend Developer at <a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a></em> (Aug 2023 - Jan 2025).<br /></li>
 <li><em>Fullstack Developer at <a href="https://www.bndes.gov.br/wps/portal/site/home">BNDES</a></em> (Jan 2022 - Aug 2023).<br /></li>
 
 
